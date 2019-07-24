@@ -1,0 +1,3630 @@
+Read App ID
+User Configuration read successfully. 
+
+
+STATUS/1 @ init, L55: Attempting to open device /dev/ttyS0 with baudrate 230400...
+
+STATUS/1 @ init, L65: ...Serial started successfully.
+
+STATUS/1 @ parseDroneVersionInfo, L727: Device Serial No. = 041DF31783
+
+STATUS/1 @ parseDroneVersionInfo, L729: Hardware = M100
+
+STATUS/1 @ parseDroneVersionInfo, L730: Firmware = 3.1.10.0
+
+STATUS/1 @ parseDroneVersionInfo, L733: Version CRC = 0xA6453AAC
+
+STATUS/1 @ initSubscriber, L778: Telemetry subscription mechanism is not supported on this platform!
+
+STATUS/1 @ initMFIO, L981: MFIO is not supported on this platform!
+
+STATUS/1 @ initHardSync, L1077: Hardware Sync is not supported on this platform!
+
+STATUS/1 @ activate, L1313: version 0x3010A00
+
+STATUS/1 @ activate, L1326: Activation successful
+| Available commands:                                            |
+| [a] Get telemetry data and print                               |
+| [b] Select some subscription topics to print                   |
+| [c] Get telemetry data and save to file                        |
+Counter = 0:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00409498
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 5:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00409498
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 10:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00486392
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 15:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00486392
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 20:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00486392
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 25:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00486392
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 30:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0044132
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 35:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0044132
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 40:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0044132
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 45:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0044132
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 50:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00468365
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 55:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1997
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00468365
+Attitude Quaternion   (w,x,y,z)       = 0.55293, -0.00282384, -0.0136698, 0.833111
+-------
+
+Counter = 60:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00468365
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 65:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00287842
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 70:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00287842
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 75:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00287842
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 80:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00287842
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 85:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00183726
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 90:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00183726
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 95:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00183726
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 100:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00183726
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 105:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0031439
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 110:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0031439
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 115:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0031439
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 120:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0031439
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 125:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00288816
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 130:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00288816
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 135:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00288816
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 140:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00288816
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 145:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00112304
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 150:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1982
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00112304
+Attitude Quaternion   (w,x,y,z)       = 0.552927, -0.00283508, -0.0136501, 0.833113
+-------
+
+Counter = 155:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00112304
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 160:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00112304
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 165:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00178897
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 170:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00178897
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 175:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00178897
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 180:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00406828
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 185:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00406828
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 190:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00406828
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 195:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00406828
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 200:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00571605
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 205:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00571605
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 210:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00571605
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 215:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00571605
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 220:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00606453
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 225:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00606453
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 230:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00606453
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 235:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00606453
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 240:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00534867
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 245:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00534867
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 250:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1978
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00534867
+Attitude Quaternion   (w,x,y,z)       = 0.552917, -0.00287671, -0.0136263, 0.83312
+-------
+
+Counter = 255:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00534867
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 260:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00560187
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 265:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00560187
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 270:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00560187
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 275:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00560187
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 280:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00688545
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 285:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00688545
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 290:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00688545
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 295:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00688545
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 300:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00659418
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 305:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00659418
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 310:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00659418
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 315:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00763883
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 320:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00763883
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 325:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00763883
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 330:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00763883
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 335:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00783011
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 340:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00783011
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 345:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1966
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00783011
+Attitude Quaternion   (w,x,y,z)       = 0.552913, -0.00289371, -0.0136251, 0.833123
+-------
+
+Counter = 350:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00783011
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 355:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00660147
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 360:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00660147
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 365:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00660147
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 370:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00660147
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 375:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00535976
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 380:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00535976
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 385:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00535976
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 390:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00535976
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 395:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00526548
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 400:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00526548
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 405:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00526548
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 410:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00526548
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 415:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00463264
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 420:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00463264
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 425:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00463264
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 430:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00463264
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 435:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00331267
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 440:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.195
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00331267
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.00295149, -0.0136558, 0.833116
+-------
+
+Counter = 445:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00331267
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 450:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00331267
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 455:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00257697
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 460:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00257697
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 465:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00257697
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 470:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00145759
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 475:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00145759
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 480:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00145759
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 485:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00145759
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 490:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000700826
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 495:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000700826
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 500:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000700826
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 505:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000700826
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 510:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000192969
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 515:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000192969
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 520:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000192969
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 525:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000192969
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 530:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000736423
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 535:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000736423
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 540:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1946
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000736423
+Attitude Quaternion   (w,x,y,z)       = 0.552918, -0.00299512, -0.0136904, 0.833118
+-------
+
+Counter = 545:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000736423
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 550:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000427518
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 555:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000427518
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 560:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000427518
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 565:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000427518
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 570:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000392079
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 575:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000392079
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 580:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000392079
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 585:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000392079
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 590:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -5.23963e-05
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 595:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -5.23963e-05
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 600:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -5.23963e-05
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 605:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000442955
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 610:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000442955
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 615:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000442955
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 620:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000442955
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 625:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000916924
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 630:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000916924
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 635:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1938
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000916924
+Attitude Quaternion   (w,x,y,z)       = 0.55294, -0.00301932, -0.0137061, 0.833103
+-------
+
+Counter = 640:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000916924
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 645:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -6.66817e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 650:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -6.66817e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 655:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -6.66817e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 660:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -6.66817e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 665:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000727363
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 670:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000727363
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 675:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000727363
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 680:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000727363
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 685:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000111476
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 690:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000111476
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 695:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000111476
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 700:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000111476
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 705:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00108087
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 710:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00108087
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 715:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00108087
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 720:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00146462
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 725:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00146462
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 730:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1933
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00146462
+Attitude Quaternion   (w,x,y,z)       = 0.552963, -0.00303861, -0.0136756, 0.833088
+-------
+
+Counter = 735:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00146462
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 740:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000733504
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 745:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000733504
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 750:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000733504
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 755:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000733504
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 760:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000990594
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 765:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000990594
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 770:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000990594
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 775:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000990594
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 780:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00255627
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 785:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00255627
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 790:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00255627
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 795:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00255627
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 800:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00353477
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 805:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00353477
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 810:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00353477
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 815:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00353477
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 820:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00359283
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 825:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00359283
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 830:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1929
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00359283
+Attitude Quaternion   (w,x,y,z)       = 0.552954, -0.00301798, -0.0137179, 0.833093
+-------
+
+Counter = 835:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00359283
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 840:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00327371
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 845:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00327371
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 850:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00327371
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 855:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00327371
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 860:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00363732
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 865:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00363732
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 870:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00363732
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 875:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00363732
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 880:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00281811
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 885:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00281811
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 890:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00281811
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 895:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00281811
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 900:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00197461
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 905:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00197461
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 910:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00197461
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 915:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00197461
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 920:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00166111
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 925:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1913
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00166111
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00305189, -0.013719, 0.833082
+-------
+
+Counter = 930:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00166111
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 935:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00166111
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 940:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00171609
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 945:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00171609
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 950:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00171609
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 955:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00191581
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 960:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00191581
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 965:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00191581
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 970:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00191581
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 975:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -4.41054e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 980:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -4.41054e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 985:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -4.41054e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 990:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -4.41054e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 995:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000914868
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 1000:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000914868
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 1005:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000914868
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 1010:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000914868
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 1015:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000898405
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 1020:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000898405
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 1025:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1908
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000898405
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.00304675, -0.0137205, 0.83308
+-------
+
+Counter = 1030:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000898405
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1035:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000668898
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1040:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000668898
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1045:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000668898
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1050:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000668898
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1055:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00169758
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1060:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00169758
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1065:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00169758
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1070:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00169758
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1075:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00363965
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1080:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00363965
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1085:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00363965
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1090:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00363965
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1095:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00617794
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1100:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00617794
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1105:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00617794
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1110:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00617794
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1115:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00593334
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1120:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00593334
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1125:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1901
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00593334
+Attitude Quaternion   (w,x,y,z)       = 0.552962, -0.00301893, -0.0137548, 0.833088
+-------
+
+Counter = 1130:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00593334
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1135:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00543988
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1140:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00543988
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1145:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00543988
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1150:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00543988
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1155:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00642279
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1160:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00642279
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1165:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00642279
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1170:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00642279
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1175:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00601504
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1180:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00601504
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1185:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00601504
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1190:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00601504
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1195:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00633386
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1200:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00633386
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1205:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00633386
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1210:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00612595
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1215:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00612595
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1220:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00612595
+Attitude Quaternion   (w,x,y,z)       = 0.552971, -0.00302884, -0.0137964, 0.833081
+-------
+
+Counter = 1225:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00612595
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1230:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0046111
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1235:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0046111
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1240:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0046111
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1245:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0046111
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1250:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00180698
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1255:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00180698
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1260:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00180698
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1265:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00180698
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1270:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00130484
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1275:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00130484
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1280:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00130484
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1285:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00130484
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1290:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000494604
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1295:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000494604
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1300:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000494604
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1305:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000494604
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1310:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000950144
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1315:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000950144
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1320:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1899
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000950144
+Attitude Quaternion   (w,x,y,z)       = 0.552981, -0.00302789, -0.0138464, 0.833074
+-------
+
+Counter = 1325:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000950144
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1330:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00147878
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1335:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00147878
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1340:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00147878
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1345:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00147878
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1350:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0019488
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1355:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0019488
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1360:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0019488
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1365:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0019488
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1370:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00164916
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1375:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00164916
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1380:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00164916
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1385:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00164916
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1390:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00243656
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1395:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00243656
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1400:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00243656
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1405:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00243656
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1410:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000770975
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1415:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1892
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000770975
+Attitude Quaternion   (w,x,y,z)       = 0.552974, -0.0030209, -0.0138576, 0.833078
+-------
+
+Counter = 1420:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000770975
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1425:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000770975
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1430:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -9.1895e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1435:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -9.1895e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1440:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -9.1895e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1445:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -9.1895e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1450:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00131785
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1455:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00131785
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1460:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00131785
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1465:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00193913
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1470:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00193913
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1475:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00193913
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1480:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00193913
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1485:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00135954
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1490:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00135954
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1495:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00135954
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1500:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.00135954
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1505:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000414135
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1510:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000414135
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1515:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1893
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000414135
+Attitude Quaternion   (w,x,y,z)       = 0.552958, -0.00300666, -0.0138599, 0.833089
+-------
+
+Counter = 1520:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000414135
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1525:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000700416
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1530:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000700416
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1535:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000700416
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1540:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000700416
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1545:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -1.61227e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1550:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -1.61227e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1555:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -1.61227e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1560:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -1.61227e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1565:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000130906
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1570:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000130906
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1575:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000130906
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1580:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000130906
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1585:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00180317
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1590:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00180317
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1595:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00180317
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1600:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000328678
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1605:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000328678
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1610:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1888
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000328678
+Attitude Quaternion   (w,x,y,z)       = 0.552944, -0.00300487, -0.0138298, 0.833099
+-------
+
+Counter = 1615:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000328678
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1620:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0016651
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1625:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0016651
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1630:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0016651
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1635:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0016651
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1640:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00312892
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1645:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00312892
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1650:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00312892
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1655:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00312892
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1660:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00182289
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1665:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00182289
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1670:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00182289
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1675:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0024917
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1680:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0024917
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1685:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0024917
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1690:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0024917
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1695:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00281629
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1700:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00281629
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1705:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1881
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00281629
+Attitude Quaternion   (w,x,y,z)       = 0.552953, -0.0030184, -0.0138307, 0.833092
+-------
+
+Counter = 1710:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00281629
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1715:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00252269
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1720:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00252269
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1725:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00252269
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1730:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00252269
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1735:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0025556
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1740:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0025556
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1745:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0025556
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1750:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.0025556
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1755:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00346536
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1760:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00346536
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1765:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00346536
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1770:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00346536
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1775:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00338519
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1780:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00338519
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1785:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00338519
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1790:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00338519
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1795:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00139092
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1800:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00139092
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1805:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1879
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00139092
+Attitude Quaternion   (w,x,y,z)       = 0.552934, -0.00301887, -0.0138009, 0.833106
+-------
+
+Counter = 1810:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00139092
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1815:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000773534
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1820:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000773534
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1825:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000773534
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1830:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000773534
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1835:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000481002
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1840:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000481002
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1845:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000481002
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1850:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.000481002
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1855:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0012147
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1860:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0012147
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1865:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -0.0012147
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1870:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000810206
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1875:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000810206
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1880:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000810206
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1885:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.000810206
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1890:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00307657
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1895:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00307657
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1900:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.187
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00307657
+Attitude Quaternion   (w,x,y,z)       = 0.552922, -0.0030022, -0.0137983, 0.833113
+-------
+
+Counter = 1905:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00307657
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1910:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00418836
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1915:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00418836
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1920:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00418836
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1925:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00418836
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1930:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00560737
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1935:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00560737
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1940:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00560737
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1945:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00560737
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1950:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00500346
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1955:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00500346
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1960:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00500346
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1965:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00500346
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1970:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00220974
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1975:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00220974
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1980:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00220974
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1985:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, 0.00220974
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1990:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -2.9788e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Counter = 1995:
+-------
+Flight Status                         = 1
+Position              (LLA)           = 0, 0, 65.1864
+RC Commands           (r/p/y/thr)     = 0, 0, 0, 0
+Velocity              (vx,vy,vz)      = 0, 0, -2.9788e-05
+Attitude Quaternion   (w,x,y,z)       = 0.552892, -0.00298412, -0.0137507, 0.833134
+-------
+
+Done printing!
