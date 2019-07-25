@@ -8,3 +8,6 @@ DJI Register App - https://developer.dji.com/user/apps/#all
 DJI Assistant 2 for Matrice windows - https://www.dji.com/downloads/softwares/assistant-dji-2-for-matrice
 
 Enable API Access in DJI Assistant 2
+
+
+![alt text](https://raw.githubusercontent.com/msatmsft/dji-matrice100-iot/master/m1002.PNG)
